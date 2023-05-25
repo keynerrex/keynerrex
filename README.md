@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @keynerrex
 - 💞️ I am programming in Java, PHP, JavaScript, Python, Ruby, Linux
-- 🌱 I’m currently learning ...
-- 👀 I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Actualmente laborando en RED5G -> red5g.co
 
 <!---
 keynerrex/keynerrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
